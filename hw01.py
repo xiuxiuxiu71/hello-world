@@ -25,4 +25,4 @@ try:
     print(result);
 except IndexError:
     print("index error");
-
+fl.close();
